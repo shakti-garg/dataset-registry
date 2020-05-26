@@ -1,0 +1,7 @@
+md5: 44223c622893eaf533ed068318419e4d
+outs:
+- md5: fa51d3c34b57e855d360bcbcbbf696e8.dir
+  path: speech_dataset
+  cache: true
+  metric: false
+  persist: false
